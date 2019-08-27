@@ -35,9 +35,9 @@
  }
 ```
 ## Quick view
-![main page](https://raw.githubusercontent.com/YunYuLo/restaurant_list/master/public/img/main.png)
-![welcome page]()
-![error page]()
+![main page](https://github.com/YunYuLo/simple_login/blob/master/img/main.png)
+![error page](https://github.com/YunYuLo/simple_login/blob/master/img/error.png)
+![welcome page](https://github.com/YunYuLo/simple_login/blob/master/img/welcome.png)
 
 ## Environment set up
 - Node.js
@@ -45,7 +45,7 @@
 - express-handlebars
 
 ### Installation
-- clone this URL: https://github.com/YunYuLo/restaurant_list.git
+- clone this URL: https://github.com/YunYuLo/simple_login.git
 - cd to the file
 - instal npm 
 - you can visit this web on: http://localhost:3000
