@@ -29,10 +29,10 @@ function checkMembership(input) {
 
   const isMember = users.find(user => (user.email === input.email) && (user.password === input.password)) || []
 
-  if (isMember.length === 0) {
-    return false
-  } else {
+  if (isMember) {
     return isMember
+  } else {
+    return false
   }
 }
 
